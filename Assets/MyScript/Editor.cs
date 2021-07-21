@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Editer : MonoBehaviour
+public class Editor : MonoBehaviour
 {
     //SerializeField
     public int public_int;
